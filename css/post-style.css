@@ -156,7 +156,18 @@ header.shadow .logo {
         margin-right: auto;
         width: 50%;
 }
-
+figure{
+    border: 1px #ccccc Solid;
+    padding:4px;
+    margin:auto;
+}
+figcaption{
+    background-color:black;
+    color:white;
+    font-style:italic;
+    padding: 2px;
+    text-align:center;
+}
 .sub-heading {
     font-size: 1.2rem;
 }

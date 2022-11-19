@@ -116,7 +116,12 @@ header.shadow .logo {
     margin: auto;
     width: 100%;
 }
-
+.author_name{
+    color:grey;
+    border-left:4px solid rgb(31,101,105);
+    margin-left:5px;
+    padding:2px;
+}
 .header-content {
     display: flex;
     flex-direction: column;

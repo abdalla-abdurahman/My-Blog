@@ -118,9 +118,8 @@ header.shadow .logo {
 }
 .author_name{
     color:grey;
-    border-left:4px solid rgb(31,101,105);
-    margin-left:5px;
-    padding:2px;
+    border-left:4px solid rgb(31,101,105);   
+    padding-left:6px;
 }
 .header-content {
     display: flex;
@@ -292,5 +291,10 @@ figcaption{
     }
     .header-img{
         height: 370px;
+    }
+}
+@media (max-width: 377px){
+    .author_name{
+        margint-top:35px;
     }
 }

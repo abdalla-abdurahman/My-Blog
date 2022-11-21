@@ -140,7 +140,7 @@ header.shadow .logo{
     color: var(--second-color);
 }
 .post-title{
-    font-size: 1.15rem;
+    font-size: 1.2rem;
     font-weight: 600;
     color: var(--text-color);
     /* To Remain Title In 2 Lines */

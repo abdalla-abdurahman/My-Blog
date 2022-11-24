@@ -58,9 +58,10 @@ header.shadow .logo{
     padding: 10px 0;
 }
 .logo{
-    font-size: 1.5rem;
+    font-size: 2.5rem;
     font-weight: 600;
     color: var(--bg-color);
+    font-family: 'Montez', cursive;
 }
 .logo span{
     color: var(--second-color);

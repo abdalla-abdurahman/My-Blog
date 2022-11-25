@@ -286,7 +286,7 @@ figcaption{
         font-size: 2rem;
     }
 }
-@media (max-width: 330px){
+@media (max-width: 355px){
     .header-title{
         font-size: 1.4rem;
     }

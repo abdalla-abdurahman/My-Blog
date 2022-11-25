@@ -121,6 +121,7 @@ header.shadow .logo {
     color:grey;
     border-left:4px solid rgb(31,101,105);   
     padding-left:6px;
+    margin-top:25px;
 }
 .header-content {
     display: flex;
